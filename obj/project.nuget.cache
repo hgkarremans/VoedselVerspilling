@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8ZsHtlByk1FbgbAWm50EfCSGlwNdSgkJhDgy6HP/o43+tT9bzSqFRaZDl5g0oLDIYs4AbQ8BMeM+Tbn0vI4Hxw==",
+  "dgSpecHash": "T7IolO2+MPoxhRwk875X6MpQ2Cm1y7Q6PHLk70Nj8+g8nmwbVSTQGv+Ai4syGvfCAjbjp/wgrxi81eiGl12uQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hgkar\\Documents\\Avans\\Jaar 2\\SSWP Project\\Voedselverspilling\\VoedselVerspilling\\VoedselVerspilling.csproj",
+  "projectFilePath": "C:\\Users\\hgkar\\source\\repos\\VoedselVerspilling.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hgkar\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\hgkar\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
